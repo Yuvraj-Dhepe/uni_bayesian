@@ -1,0 +1,5 @@
+jupyterlab
+jupyter
+seaborn
+ipympl
+ipywidgets
