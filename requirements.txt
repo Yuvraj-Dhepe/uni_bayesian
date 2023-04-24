@@ -3,3 +3,4 @@ jupyter
 seaborn
 ipympl
 ipywidgets
+matplotlib
