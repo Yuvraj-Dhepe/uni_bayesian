@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e9af32e-d298-41a0-b6d0-bf685c6f0a1f" name="Changes" comment="" />
+    <list default="true" id="5e9af32e-d298-41a0-b6d0-bf685c6f0a1f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/uni_bayesian.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uni_bayesian.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_2/nicolas_version.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_2/nicolas_version.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +29,10 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -35,7 +45,22 @@
       <option name="presentableId" value="Default" />
       <updated>1682707075529</updated>
       <workItem from="1682707079869" duration="1000" />
+      <workItem from="1683022112632" duration="731000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///Users/I518095/Documents/GitHub/uni_bayesian/Ex_2/Ms_version_Sheet2.ipynb</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
